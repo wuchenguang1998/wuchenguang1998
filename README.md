@@ -6,7 +6,7 @@ Hi👋, 我是 wuchenguang1998 😁. [个人技术博客](https://wuchenguang199
 
 积极参与开源社区贡献. 已参与的开源项目：
 
-- <div>✨&nbsp;<a href="https://github.com/didi/LogicFlow">LogicFlow</a>&nbsp;&nbsp;&nbsp;滴滴技术团队开源的流程图编辑框架，基于 svg</div>
+- <div>✨&nbsp;<a href="https://github.com/didi/LogicFlow">LogicFlow</a>&nbsp;&nbsp;&nbsp;滴滴技术团队开源的流程图编辑框架，基于 Preact 、 svg</div>
 
   ![](https://img.shields.io/github/stars/didi/LogicFlow?style=plastic) ![](https://img.shields.io/github/forks/didi/LogicFlow?style=plastic) ![](https://img.shields.io/npm/dm/@logicflow/core?style=plastic)
 

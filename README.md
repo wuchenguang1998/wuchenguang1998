@@ -8,12 +8,12 @@ Hi👋, 我是 **wuchenguang1998** 😁.   [个人技术博客](https://wuchengu
 
 - <div>✨&nbsp;<b><a href="https://github.com/didi/LogicFlow">LogicFlow</a></b>&nbsp;&nbsp;&nbsp;滴滴技术团队开源的流程图编辑框架，基于 Preact 、 svg</div>
 
-  ![](https://img.shields.io/github/stars/didi/LogicFlow?style=plastic) ![](https://img.shields.io/github/forks/didi/LogicFlow?style=plastic) ![](https://img.shields.io/npm/dm/@logicflow/core?style=plastic)
+  ![](https://img.shields.io/github/stars/didi/LogicFlow?style=flat) ![](https://img.shields.io/github/forks/didi/LogicFlow?style=flat) ![](https://img.shields.io/npm/dm/@logicflow/core?style=flat)
 
 - <div>✨&nbsp;<b><a href="https://github.com/ikuaitu/vue-fabric-editor">vue-fabric-editor</a></b>&nbsp;&nbsp;&nbsp;开源图形编辑器，基于 canvas 、fabric.js</div>
 
-  ![](https://img.shields.io/github/stars/ikuaitu/vue-fabric-editor?style=plastic) ![](https://img.shields.io/github/forks/ikuaitu/vue-fabric-editor?style=plastic)
+  ![](https://img.shields.io/github/stars/ikuaitu/vue-fabric-editor?style=flat) ![](https://img.shields.io/github/forks/ikuaitu/vue-fabric-editor?style=flat)
 
 - <div>✨&nbsp;<b><a href="https://github.com/caohuatao/vue-super-flow">vue-super-flow</a></b>&nbsp;&nbsp;&nbsp;开源流程图组件，基于 Vue 、canvas</div>
 
-  ![](https://img.shields.io/github/stars/caohuatao/vue-super-flow?style=plastic) ![](https://img.shields.io/github/forks/caohuatao/vue-super-flow?style=plastic) ![](https://img.shields.io/npm/dm/vue-super-flow?style=plastic)
+  ![](https://img.shields.io/github/stars/caohuatao/vue-super-flow?style=flat) ![](https://img.shields.io/github/forks/caohuatao/vue-super-flow?style=plastic) ![](https://img.shields.io/npm/dm/vue-super-flow?style=flat)
